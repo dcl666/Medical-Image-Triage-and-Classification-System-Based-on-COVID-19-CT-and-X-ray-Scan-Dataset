@@ -4,7 +4,7 @@ Here shows the code and the dataset from the paper Medical Image Triage and Clas
 
 ## Download
 
-You can download the dataset\weight\code from the folder.
+You can download the dataset\weight\code from https://github.com/feary-li/Medical-Image-Triage-and-Classification-System-Based-on-COVID-19-CT-and-X-ray-Scan-Dataset.
 
 ## Requirement
 
