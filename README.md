@@ -2,9 +2,9 @@
 
 Here shows the code and the dataset from the paper Medical Image Triage and Classification System——Based on COVID-19 CT and X ray Scan Dataset
 
-## Dataset
+## Download
 
-You can download the dataset and weight from the folder.
+You can download the dataset\weight\code from the folder.
 
 ## Requirement
 
